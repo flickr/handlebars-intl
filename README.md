@@ -59,5 +59,3 @@ Handlebars helpers for internationalization.
 ## Usage
 
 TODO
-
-
